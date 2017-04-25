@@ -1,4 +1,7 @@
-# api documentation for  [dummy-json (v2.0.0)](https://github.com/webroo/dummy-json)  [![npm package](https://img.shields.io/npm/v/npmdoc-dummy-json.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-dummy-json) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-dummy-json.svg)](https://travis-ci.org/npmdoc/node-npmdoc-dummy-json)
+# npmdoc-dummy-json
+
+#### basic api documentation for  [dummy-json (v2.0.0)](https://github.com/webroo/dummy-json)  [![npm package](https://img.shields.io/npm/v/npmdoc-dummy-json.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-dummy-json) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-dummy-json.svg)](https://travis-ci.org/npmdoc/node-npmdoc-dummy-json)
+
 #### Dummy JSON mock data generator for Node.js
 
 [![NPM](https://nodei.co/npm/dummy-json.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/dummy-json)
